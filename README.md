@@ -1,5 +1,4 @@
 - This Robert (BK) Kintu
-- ML engineer by day, Ai agency owner by night.
 - Currently researching and tinkering with VLMs and computer vision.
 - Coffee & running
 - FOLLOW OBSESSION
