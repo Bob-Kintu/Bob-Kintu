@@ -1,6 +1,7 @@
-- This BOBKINTU,
-- And I'm in to data pipelines, vision language models and the agentic future of work
-- kitana.agency for the future of work, izyuba.com for the future of film study in NFL, NBA and pro-sports.
+- Hi,
+- I like technology, it makes a dent in the universe.
+- I create agents + agent adoptions at kitana3x.com
+- What does the future of humanity? Life? and Work? look like?
 
 <!---
 Bob-Kintu/Bob-Kintu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
